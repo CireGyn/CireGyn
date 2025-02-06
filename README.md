@@ -1,5 +1,5 @@
 ## Welcome to Eric G. Anadrade 😁
-
+-FullStack Developer. Looking to evolve more every day. Making projects with: HTML, CSS and JavaScript.
  <div>
    <a href="https://github.com/CireGyn">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CireGyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Contacts :iphone:
  
 <div> 
  
