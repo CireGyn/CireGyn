@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Eric G. Anadrade 😁
+## Welcome to Eric G. Anadrade 😁
 
  <div>
    <a href="https://github.com/CireGyn">
